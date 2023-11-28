@@ -16,8 +16,9 @@ Ce projet présente une solution de résolution de labyrinthes utilisant le robo
 Assurez-vous d'avoir installé le SDK NAOqi et Python correctement. Clonez ce dépôt sur votre machine locale.
 
 ```bash
-git clone [Votre-Lien-Dépôt]
-cd [Votre-Nom-Dépôt]
+git clone git@github.com:elrhadiouini/NAO-Robot-Maze-Solver.git
+cd NAO-Robot-Maze-Solver
+```
 
 ## Utilisation
 Pour exécuter le solveur de labyrinthe, exécutez la commande suivante, en remplaçant ip et port par l'adresse IP et le numéro de port de votre robot :
@@ -31,5 +32,3 @@ python main.py --ip [Adresse_IP_Robot] --port [Port_Robot]
 Les contributions à ce projet sont les bienvenues. Veuillez forker le dépôt et soumettre une demande de tirage (pull request) avec vos modifications.
 ## Contact
 Pour toute question, n'hésitez pas à contacter elrhadiouini.zakaria@gmail.com.
-
-Assurez-vous de remplacer les espaces réservés comme `[Votre-Lien-Dépôt]`, `[Votre-Nom-Dépôt]`, `[Adresse_IP_Robot]`, et `[Port_Robot]` par les informations réelles de votre projet. De plus, pour le badge de la licence, remplacez `el_rhadiouini` par l'URL de votre badge de licence, si vous en avez un.
